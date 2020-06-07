@@ -1,0 +1,14 @@
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\bin\Debug\netcoreapp3.1\Newtella-Winforms.exe
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\bin\Debug\netcoreapp3.1\Newtella-Winforms.deps.json
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\bin\Debug\netcoreapp3.1\Newtella-Winforms.runtimeconfig.json
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\bin\Debug\netcoreapp3.1\Newtella-Winforms.runtimeconfig.dev.json
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\bin\Debug\netcoreapp3.1\Newtella-Winforms.dll
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\bin\Debug\netcoreapp3.1\Newtella-Winforms.pdb
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\obj\Debug\netcoreapp3.1\Newtella-Winforms.csprojAssemblyReference.cache
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\obj\Debug\netcoreapp3.1\Newtella-Winforms.AssemblyInfoInputs.cache
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\obj\Debug\netcoreapp3.1\Newtella-Winforms.AssemblyInfo.cs
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\obj\Debug\netcoreapp3.1\Newtella-Winforms.dll
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\obj\Debug\netcoreapp3.1\Newtella-Winforms.pdb
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\obj\Debug\netcoreapp3.1\Newtella-Winforms.genruntimeconfig.cache
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\obj\Debug\netcoreapp3.1\Newtella_Winforms.Form1.resources
+C:\Users\kolby\Source\Repos\GitHub\Newtella\Newtella-Winforms\Newtella-Winforms\obj\Debug\netcoreapp3.1\Newtella-Winforms.csproj.GenerateResource.cache
